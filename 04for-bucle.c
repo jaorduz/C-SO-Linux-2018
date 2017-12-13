@@ -32,7 +32,7 @@ int b, a=10;
 	{
 			for(j=1; j<=2; j++){
 a = a + b;
-printf("%d %d %d %d\n",i, a, b,j);
+printf("%d %d %d %d\n",i, a, b, j);
 }
 
 
