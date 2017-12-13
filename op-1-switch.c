@@ -16,11 +16,7 @@ entonces la secuencia se ejecuta.
 
 En este programa veremos la forma general de la 
 declaración switch.
-Tu trabajo es introducir el teorema del seno y 
-del coseno en el programa; introducir dos lados 
-y un ángulo por consola, el usuario debe elegir la 
-clasificación del triángulo según sus lados, y 
-que el programa calcule el otro lado.
+
  */
 
 int main(void)
@@ -55,3 +51,10 @@ int main(void)
     }
   return 0;
 }
+
+/*
+Implementar el teorema del seno y del coseno para 
+calcular un lado.
+
+*/
+
