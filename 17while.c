@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 /*
 La instruccion while se utiliza para generar bucles (ciclos):
 hasta satisfacer la condicion, un grupo de instrucciones se 
@@ -11,27 +9,28 @@ while(condicion){instrucciones}
 */
 
 
+#include <stdio.h>
+
 int main(){
 
-int digito, DigFinal;
-
-printf("Dame un valor entero inicial ");
-
-scanf("%i",&digito);
-digito = digito -1;
+int digini=1, digfin=5;
 
 
-printf("Dame un valor entero final ");
+digini = digini -1;
 
-scanf("%i",&DigFinal);
-DigFinal= DigFinal -1;
+digfin= digfin -1;
 
 printf("Ahora te muestro una lista de datos:\n");
 
-while(digito <= DigFinal)
+while(digini <= digfin)
 {
-digito= digito+1;
-printf("%d\n",digito);
+digini= digini+1;
+printf("%d\n",digini);
 }
 return 0;
 }
+
+/*
+Tu trabajo es implementar los valores digini y digfin por consola.
+
+*/
