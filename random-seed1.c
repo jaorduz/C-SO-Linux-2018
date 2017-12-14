@@ -1,7 +1,8 @@
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
-#include<float.h>
+
+#inclde<float.h>
 
 int main(){
 float   x,max;
