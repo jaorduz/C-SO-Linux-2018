@@ -20,5 +20,5 @@ return 0;
 
 
 /*
-Debes introducir comentarios.
+Debes introducir documentacion interna.
 */
