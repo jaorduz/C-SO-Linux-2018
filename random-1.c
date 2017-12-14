@@ -18,5 +18,5 @@ max = RAND_MAX*1.0;
      printf("%i %f\n",i, x); 
  }
 
-return 0;
+return 0
 }
