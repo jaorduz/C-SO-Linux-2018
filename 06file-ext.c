@@ -58,7 +58,7 @@ int main ()
     }
 
  
- fclose ( archivo );
+ fclose ( archivo )
 
   printf("\nRevisa el archivo prueba.txt\n");    
 
