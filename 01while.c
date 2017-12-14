@@ -9,7 +9,7 @@ while(condicion){instrucciones}
 */
 
 
-#include <stdio.h>
+
 
 int main(){
 
