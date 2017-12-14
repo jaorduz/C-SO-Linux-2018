@@ -23,7 +23,7 @@ int DigFinal;
 printf("Dame un valor entero inicial ");
 
 scanf("%i",&digito);
-digito = digito -1;
+digito = digito -1
 
 
 printf("Dame un valor float final ");
@@ -41,4 +41,4 @@ printf("%d\n", digito);
 }
 while(digito <= DigFinal);
 return 0;
-}
+
