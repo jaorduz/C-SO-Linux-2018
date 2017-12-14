@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stio.h>
 #include<math.h>
 #include<stdlib.h>
 #include<float.h>
@@ -12,7 +12,7 @@ max = RAND_MAX*1.0;
 srand(1981122);
 
 
-cuenta=0;
+cuenta=0
   for(i=1;i<=10;i++){
 x=(rand()/max);
 y=(rand()/max);
